@@ -45,12 +45,5 @@ truffle deploy --network kovan
 ```
 npm run dev
 ```
- # Developer
- Let's Connect! 👋 👋 
- ```
- Paras Gaur - 
-    Email - parasgr484@gmail.com
-    Linkedin - https://www.linkedin.com/in/paras-gaur/
-    Website - https://paras-portfolio-flame.vercel.app/
- ```
+
 
